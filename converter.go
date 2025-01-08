@@ -48,7 +48,8 @@ func main() {
 			builder.WriteString(fmt.Sprintf("Filter %d: ON PK Fc %f Hz Gain %f dB Q %f\n", i+1, band.Frequency, band.Gain, band.Q))
 		}
 
-		os.WriteFile(filepath.Join("apo", cfg.Name+".txt"), builder.Bytes(), 0644)
-
+		if err = os.WriteFile(filepath.Join("apo", cfg.Name+".txt"), builder.Bytes(), 0644); err != nil {
+			panic(err)
+		}
 	}
 }
