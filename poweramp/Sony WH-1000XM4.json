@@ -1,0 +1,103 @@
+{
+	"name": "Sony WH-1000XM4",
+	"preamp": 0.0,
+	"parametric": true,
+	"bands": [
+		{
+			"type": 0,
+			"channels": 0,
+			"frequency": 90,
+			"q": 0.800000011920929,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 1,
+			"channels": 0,
+			"frequency": 10000,
+			"q": 0.6000000238418579,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 4,
+			"channels": 0,
+			"frequency": 105,
+			"q": 0.699999988079071,
+			"gain": -3.0,
+			"color": -13421773
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 141,
+			"q": 0.7799999713897705,
+			"gain": -5.5,
+			"color": -12320700
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 2185,
+			"q": 1.7400000095367432,
+			"gain": 5.599999904632568,
+			"color": -13434880
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 394,
+			"q": 2.9000000953674316,
+			"gain": 2.5,
+			"color": -16777165
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 71,
+			"q": 1.75,
+			"gain": 1.399999976158142,
+			"color": -16764160
+		},
+		{
+			"type": 5,
+			"channels": 0,
+			"frequency": 10000,
+			"q": 0.699999988079071,
+			"gain": 1.2999999523162842,
+			"color": -13421824
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 6760,
+			"q": 5.860000133514404,
+			"gain": 3.0999999046325684,
+			"color": -14540254
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 5371,
+			"q": 5.900000095367432,
+			"gain": -2.5999999046325684,
+			"color": -13434829
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 1008,
+			"q": 3.7799999713897705,
+			"gain": 1.5,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 1425,
+			"q": 4.289999961853027,
+			"gain": -1.100000023841858,
+			"color": -15649895
+		}
+	]
+}
